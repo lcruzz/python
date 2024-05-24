@@ -1,0 +1,1 @@
+repositório criado para guardar os exercícios de Python que faço no meu curso técnico de informática.
